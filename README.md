@@ -1,6 +1,6 @@
 # Introdução à Computação Gráfica
  Estão aqui presentes os trabalhos feitos durante a disciplina de Introdução à Computação Gráfica do Curso de Ciência da Computação da UFPB.
- Here are my class projects during the Intro to Computational Graphics class, Computer Science, at UFPB. 
+ Here are my class projects during the Intro to Computer Graphics class, Computer Science, at UFPB. 
 
 ## Atividade 1
 
