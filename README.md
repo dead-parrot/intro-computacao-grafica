@@ -43,10 +43,10 @@ Por último, mas não menos importante, a função DrawTriangle recebe as coorde
 ### Hard times
 A parte mais frustrante do trabalho foi o bug que causava a retidão de algumas linhas. Mas foi resolvido atualizando o valor da variação de y, como dito acima.
 
-![](Trabalho-2/prints/03.png)
+![](Trabalho-2/prints/04.png)
 *Sem bug*
 
-![](Trabalho-2/prints/03.png)
+![](Trabalho-2/prints/05.png)
 *Com bug*
 
 
