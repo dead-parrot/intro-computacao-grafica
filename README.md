@@ -61,7 +61,6 @@ Goal: Practical use of studied concepts on graphic pipeline with a tamplate code
 Alterando os valores da matriz Model, tomando cuidado com a formatação usada pelo glm, este foi o resultado obtido:
 ![](Trabalho-3/prints/01.png)
 
-
 ### Exercício 2: Translação
 
 Aqui devemos mexer na matriz Model para haver um translação. Translações em (x, y, z) = (1, 0, 0).
