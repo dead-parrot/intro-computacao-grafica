@@ -49,4 +49,35 @@ A parte mais frustrante do trabalho foi o bug que causava a retidão de algumas 
 ![](Trabalho-2/prints/05.png)
 *Com bug*
 
+## Atividade 3
 
+Objetivo: Aplicação dos conceitos vistos sobre o pipeline gráfico usando um código template disponibilizado pelo professor.
+Goal: Practical use of studied concepts on graphic pipeline with a tamplate code providaded by the Professor.
+
+### Exercício 1: Escala
+
+"Modificar a matriz Model [...]" "Fatores de escala em (x, y, z) = ( 1/3, 3/2, 1)."
+
+Alterando os valores da matriz Model, tomando cuidado com a formatação usada pelo glm, este foi o resultado obtido:
+![](Trabalho-3/prints/01.png)
+
+
+### Exercício 2: Translação
+
+Aqui devemos mexer na matriz Model para haver um translação. Translações em (x, y, z) = (1, 0, 0).
+![](Trabalho-3/prints/02.png)
+
+### Exercício 3: Projeção Perspectiva
+
+Devemos fazer modificações na matriz projection para mudar o parâmetro d para 1/8.
+![](Trabalho-3/prints/03.png)
+
+### Exercício 4: Posição Câmera
+
+Após os cálculos 
+![](Trabalho-3/prints/04.png)
+
+### Exercício 5: Transformações Livres
+
+Após mexer com os valores das matrizes:
+![](Trabalho-3/prints/05.png)
