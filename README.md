@@ -73,7 +73,7 @@ Devemos fazer modificações na matriz projection para mudar o parâmetro d para
 
 ### Exercício 4: Posição Câmera
 
-Após os cálculos 
+Infelizmente,não consegui completar esse exercício.
 ![](Trabalho-3/prints/04.png)
 
 ### Exercício 5: Transformações Livres
